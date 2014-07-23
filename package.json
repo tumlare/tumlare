@@ -1,0 +1,23 @@
+{
+  "name": "tumlare",
+  "version": "0.0.1-dev",
+  "description": "tumlare makes tumblr theme development easy",
+  "main": "./lib/tumlare.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tumlare/tumlare.git"
+  },
+  "author": "Magnus Dahlstrand",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tumlare/tumlare/issues"
+  },
+  "homepage": "https://github.com/tumlare/tumlare",
+  "devDependencies": {
+    "mocha": "^1.20.1",
+    "expect.js": "^0.3.1"
+  }
+}
